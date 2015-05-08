@@ -1,0 +1,20 @@
+body {
+  background-color: #242424;
+  color: #fff;
+  font-family: 'Titillium Web', sans-serif;
+  width: 80%;
+  min-width: 1024px;
+  margin: 12px auto;
+}
+
+.description a, .description a:link, .description a:visited {
+  color: #CCC;
+}
+
+.description a:hover, .description a:active {
+  color: #888;
+}
+
+.description {
+  font-size: 14px;
+}
