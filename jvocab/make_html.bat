@@ -1,1 +1,0 @@
-csvtotable vocab.csv output/index.html --overwrite --caption "語彙リスト" --pagination --export-options json --export-options csv --export-options copy --export-options print --serve
